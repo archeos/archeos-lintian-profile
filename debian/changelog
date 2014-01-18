@@ -1,0 +1,5 @@
+archeos-lintian-profile (0.1) theodoric; urgency=low
+
+  * Initial release. (Closes: archeos/archeos-meta#4)
+
+ -- Romain Janvier <romain.janvier@hotmail.fr>  Sat, 18 Jan 2014 16:46:48 +0100

@@ -1,0 +1,15 @@
+Source: archeos-lintian-profile
+Section: metapackages
+Priority: optional
+Maintainer: Romain Janvier <romain.janvier@hotmail.fr>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9.0.0)
+Vcs-Git: git://github.com/archeos/archeos-lintian-profile.git
+Vcs-Browser: https://github.com/archeos/archeos-lintian-profile
+Homepage: http://www.archeos.eu
+
+Package: archeos-lintian-profile
+Depends: lintian, ${misc:Depends}
+Architecture: all
+Description: ArcheOS lintian profile
+ This package contains a Lintian specific profile for ArcheOS distribution.

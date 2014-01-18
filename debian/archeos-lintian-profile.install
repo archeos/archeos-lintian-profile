@@ -1,0 +1,2 @@
+profiles/archeos/main.profile /usr/share/lintian/profiles/archeos
+vendors/archeos/main/data/changes-file/known-dists /usr/share/lintian/vendors/archeos/main/data/changes-file
