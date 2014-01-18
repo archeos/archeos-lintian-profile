@@ -6,7 +6,7 @@ allows us to avoid the bad-distrib-in-changes-files error.
 Each new version name should be included in the 
 vendors/archeos/main/data/changes-files/known-dist file.  
 
-_To be discussed_
+_To be discussed_  
 This package should be added as a build dependency for every other
 packages.  
 
